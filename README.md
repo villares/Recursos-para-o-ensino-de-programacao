@@ -1,4 +1,3 @@
-# Recurso para o ensino de programação
 ## Recursos para o ensino de programação para artistas, designers e arquitetos
 
 Uma pessoa fluente no uso de tecnologia aproveita todos os recursos disponíveis para solucionar problemas com que se depara. Uma das formas de ampliar a fluência tecnológica é o ensino de programação, uma vez que programar aumenta as possibilidades de criação com ferramentas digitais.
