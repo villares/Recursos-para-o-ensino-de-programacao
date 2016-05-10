@@ -7,6 +7,7 @@ sim,Windows,software proprietário (freeware?),Bentley ,Generative Components,vi
 sim,"Windows, Mac OS, Linux",software livre ou open source,Blender,Python,Python,Criação de ferramentas plug-in e geometrias 3D complexas.,blender.org/manual/advanced/scripting/introduction.html,
 sim,"Windows, Mac OS",software livre ou open source,Cinder,C++,C,"Criação de gráficos 2D e 3D, arte interativa, visualização de dados.",libcinder.org/,
 sim,Mac OS,software livre ou open source,Drawbot,Python,Python,"Criação de gráficos 2D, arte interativa, visualização de dados.",www.drawbot.com/,
+parcialmente,"Windows, Mac OS, Linux",software livre ou open source,FreeCAD,Python,Python,Criação de ferramentas plug-in e geometrias 2D e 3D complexas.,www.freecadweb.org,http://www.freecadweb.org/wiki/index.php?title=FreeCAD_Scripting_Basics
 parcialmente,"Windows, Mac OS, Linux",software proprietário,Minecraft,[várias],"visual com blocos, Python, Javascript, Lua","Educação, jogos",,http://computercraftedu.com/ http://pi.minecraft.net/?page_id=14
 parcialmente,"Windows, Mac OS, Linux",software livre ou open source,NodeBox 3,NodeBox,"visual com nós, Python","Criação de gráficos 2D, arte interativa, visualização de dados.",www.nodebox.net/node/,
 parcialmente,"Windows, Mac OS, Linux",software livre ou open source,NodeBox for OpenGL,Python,Python,"Criação de gráficos 2D, arte interativa, visualização de dados.",www.cityinabottle.org/nodebox/,
