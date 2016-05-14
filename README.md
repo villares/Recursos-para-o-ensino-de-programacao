@@ -2,7 +2,7 @@
 
 [Veja aqui a versão formatada](https://docs.google.com/spreadsheets/d/1l87iQ1ewJQahCOtLujH5AQ9nifyfTdYqkGRPeVvRcrE/pubhtml)
 
-[Baixe em PDF e/ou faça uma doação](http://gumroad.com/l/LrVZ)
+[Baixe em PDF e considere fazer uma doação!](http://gumroad.com/l/LrVZ)
 
 Uma pessoa fluente no uso de tecnologia aproveita todos os recursos disponíveis para solucionar problemas com que se depara. Uma das formas de ampliar a fluência tecnológica é o ensino de programação, uma vez que programar aumenta as possibilidades de criação com ferramentas digitais.
 
