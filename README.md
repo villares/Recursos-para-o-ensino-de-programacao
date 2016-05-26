@@ -9,12 +9,7 @@ Este repositório é fonte para a **[Tabela I](https://docs.google.com/spreadshe
 OU
 * Programa de desenho ou modelagem 3D que permite scriptagem **na própria interface do programa** ou **com pouquíssimos passos entre a programação e execução do código**.
 
-A **[Tabela II](https://docs.google.com/spreadsheets/d/1l87iQ1ewJQahCOtLujH5AQ9nifyfTdYqkGRPeVvRcrE/pubhtml?gid=1695940833)** apresenta uma bibliografia e outras referências a serem exploradas, algumas das quais são brevemente comentadas nas fichas **[Referências comentadas](http://gumroad.com/l/LrVZ)** que completam o material, e [podem ser baixadas juntamente com as tabelas formatadas em PDF](http://gumroad.com/l/LrVZ).
-
-[Veja aqui a versão formatada](https://docs.google.com/spreadsheets/d/1l87iQ1ewJQahCOtLujH5AQ9nifyfTdYqkGRPeVvRcrE/pubhtml)
-
-[Baixe em PDF e considere fazer uma doação!](http://gumroad.com/l/LrVZ)
+A **[Tabela II](https://docs.google.com/spreadsheets/d/1l87iQ1ewJQahCOtLujH5AQ9nifyfTdYqkGRPeVvRcrE/pubhtml?gid=1695940833)** apresenta uma bibliografia e outras referências a serem exploradas, algumas das quais são brevemente comentadas nas fichas **[Referências comentadas](http://gumroad.com/l/LrVZ)** que completam o material, e podem ser baixadas juntamente com as tabelas formatadas em PDF. [Baixe em PDF e considere fazer uma doação!](http://gumroad.com/l/LrVZ)
 
 Site oficial https://abav.lugaralgum.com/agoritmos-para-ada/
-
 Versão em inglês / English version: https://github.com/villares/Resources-for-teaching-programming
