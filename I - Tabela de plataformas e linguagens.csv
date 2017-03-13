@@ -3,6 +3,7 @@ parcialmente,Windows,software proprietário,ArcGIS,Python,Python,"Criação de f
 sim,"Windows, Mac OS","software proprietário, licença educacional gratuita",ArchiCAD,GDL,similar a BASIC ,Criação de objetos paramétricos e geometrias 3D complexas.,gdl.graphisoft.com/,GDL Cookbook
 sim,"Windows, Mac OS, Linux",software livre ou open source,Arduino,C/Wiring,C,"Computação física, automação, robótica, arte interativa.",arduino.cc,Livro da Novatec e slides Luciano Ramalho - Arduino 101 Oficina para principiantes 
 parcialmente,Windows,"software proprietário, licença educacional gratuita",Autocad,AutolLISP & VisualLISP,LISP,Criação de ferramentas plug-in e geometrias 2D e 3D complexas.,help.autodesk.com/view/ACD/2016/ENU/?guid=GUID-265AADB3-FB89-4D34-AA9D-6ADF70FF7D4B,
+parcialmente,Windows,"software proprietário, licença educacional gratuita",Autocad,VBA,similar a BASIC,Criação de ferramentas plug-in e geometrias 2D e 3D complexas.,,
 sim,Windows,software proprietário (freeware?),Bentley ,Generative Components,visual com nós,Criação de geometrias gerativas* em 3D,bentley.com/en/products/product-line/modeling-and-visualization-software/generativecomponents,
 sim,"Windows, Mac OS, Linux",software livre ou open source,Blender,Python,Python,Criação de ferramentas plug-in e geometrias 3D complexas.,blender.org/manual/advanced/scripting/introduction.html,
 sim,"Windows, Mac OS",software livre ou open source,Cinder,C++,C,"Criação de gráficos 2D e 3D, arte interativa, visualização de dados.",libcinder.org/,
