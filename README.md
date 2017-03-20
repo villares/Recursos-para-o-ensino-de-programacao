@@ -2,7 +2,7 @@
 
 **[Baixe em PDF e considere fazer uma doação!](http://gumroad.com/l/LrVZ)**
 
-Uma pessoa fluente no uso de tecnologia aproveita todos os recursos disponíveis para solucionar problemas com que se depara. Uma das formas de ampliar a fluência tecnológica é o ensino de programação, uma vez que programar aumenta as possibilidades de criação com ferramentas digitais.
+Existem muitas possibilidades para ensinar programação no contexto da arquitetura, design ou artes visuais. Especialmente convidativas são as linguagens que existem embutidas em programas de desenho, programas de CAD/BIM e modeladores 3D em geral. Também devem ser consideradas algumas plataformas criadas especificamente para o ensino ou para a criação de arte digital e interativa.
 
 Este repositório é fonte para a **[Tabela I](https://docs.google.com/spreadsheets/d/1l87iQ1ewJQahCOtLujH5AQ9nifyfTdYqkGRPeVvRcrE/pubhtml)** que, mesmo incompleta, sugere muitas possibilidades, plataformas e linguagens relevantes para o ensino.
 
