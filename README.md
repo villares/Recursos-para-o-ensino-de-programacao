@@ -1,4 +1,5 @@
 ## Recursos para o ensino de programação para artistas, designers e arquitetos
+by Alexandre B A Villares ([github.com/villares](https://github.com/villares)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **[Baixe em PDF e considere fazer uma doação!](http://gumroad.com/l/LrVZ)**
 
