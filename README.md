@@ -16,5 +16,4 @@ A **[Tabela II](https://docs.google.com/spreadsheets/d/1l87iQ1ewJQahCOtLujH5AQ9n
 Versão em inglês / English version: https://github.com/villares/Resources-for-teaching-programming
 
 Copyright (c) 2014-2017 Alexandre B A Villares ([github.com/villares](https://github.com/villares))<br/>
-Este trabalho está licenciado com uma Licença Creative Commons - Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional<br/>
-[CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Este trabalho está licenciado com uma Licença Creative Commons - Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
