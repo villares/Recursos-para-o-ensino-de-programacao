@@ -1,5 +1,4 @@
 ## Recursos para o ensino de programação para artistas, designers e arquitetos
-by Alexandre B A Villares ([github.com/villares](https://github.com/villares)), [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 **[Baixe em PDF e considere fazer uma doação!](http://gumroad.com/l/LrVZ)**
 
@@ -14,6 +13,8 @@ OU
 
 A **[Tabela II](https://docs.google.com/spreadsheets/d/1l87iQ1ewJQahCOtLujH5AQ9nifyfTdYqkGRPeVvRcrE/pubhtml?gid=1695940833)** apresenta uma bibliografia e outras referências a serem exploradas, algumas das quais são brevemente comentadas nas fichas **[Referências comentadas](http://gumroad.com/l/LrVZ)** que completam o material, e podem ser baixadas juntamente com as tabelas formatadas **[em PDF](http://gumroad.com/l/LrVZ)**. 
 
-Site oficial https://abav.lugaralgum.com/agoritmos-para-ada/
-
 Versão em inglês / English version: https://github.com/villares/Resources-for-teaching-programming
+
+Copyright (c) 2014-2017 Alexandre B A Villares ([github.com/villares](https://github.com/villares))
+Este trabalho está licenciado com uma Licença Creative Commons - Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional
+[CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
