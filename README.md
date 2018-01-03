@@ -10,5 +10,5 @@ Devo manter aqui apenas uma lista com bibliografia e outras referências, alguma
 # [PDF](http://gumroad.com/l/LrVZ) / [CSV](https://raw.githubusercontent.com/villares/Recursos-para-o-ensino-de-programacao/master/Bibliografia%20e%20referências.csv)
 
 ----
-Copyright (c) 2014-2017 Alexandre B A Villares ([github.com/villares](https://github.com/villares))<br/>
+Copyright (c) 2014-2017 [Alexandre B A Villares](https://abav.lugaralgum.com)<br/>
 Este trabalho está licenciado com uma Licença Creative Commons - Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional [CC-BY-NC-SA-4.0 License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
